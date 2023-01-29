@@ -1,2 +1,2 @@
 # CrowdMaster
-Учебный проект
+Training project
